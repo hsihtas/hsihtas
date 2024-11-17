@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm sathish n</h1>
 
-<!--
-**hsihtas/hsihtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💁‍♂️ About Me:
 
-Here are some ideas to get you started:
+Associate Software Engineer at InnoBoon, passionate about coding, machine learning, and crafting robust applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Up To
+
+- 💻 Building FastAPI applications with PostgreSQL
+
+## 🌐 Reach out to me at:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish10)
+
+# 💻 Tech Stack:
+
+Languages:
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+Developer Tools:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+Libraries/Frameworks:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
